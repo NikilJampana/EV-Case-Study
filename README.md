@@ -17,11 +17,13 @@ When considering ROCCC, our data is:
 # 3. Analysis Steps
 To start, I approached this analysis trying to analyze two major factors that might impact the average EV user regarding charging stations. These were the distance to the average EV charging station and how crowded EV stations might be. To analyze these best using the data I had, I created and graphed two seperate metrics designated by city. 
 
-### 1. The first was the number of Chargers per Electric Vehicle in the city. This metric was intended to gauge how crowded EV chargers might be in the city, with a higher number indicating less crowding. For the top 20 EV owning cities in the state, the results looked like this:
+### 1. Chargers per Electric Vehicle
+This metric was intended to gauge how crowded EV chargers might be in the city, with a higher number indicating less crowding. For the top 20 EV owning cities in the state, the results looked like this:
 
 ![alt text](https://github.com/NikilJampana/EV-Case-Study/blob/main/Graphs/Chargers%20per%20EV.png?raw=true)
 
-### 2. The second metric I used was stations by city size. This metric was intended to show the average distance an EV owner might have to drive to get to a charging station, with a higher number again indicating a farther distance. For the top 20 cities, the results looked like this:
+### 2. Stations by City Size. 
+This metric was intended to show the average distance an EV owner might have to drive to get to a charging station, with a higher number again indicating a farther distance. For the top 20 cities, the results looked like this:
 
 ![alt text](https://github.com/NikilJampana/EV-Case-Study/blob/main/Graphs/Stations%20By%20City%20Size%20(1).png?raw=true)
 
@@ -33,10 +35,11 @@ The stacked bar graph resulting from my analysis looks as follows:
 ![alt text](https://github.com/NikilJampana/EV-Case-Study/blob/main/Graphs/TotalChart.png?raw=true)
 
 When looking at our results graph, a few major results become clear. 
+
+- None of the 5 largest EV owning cities rank low on this list, indicating that cities with the largest EV owning populations have already focused on providing chargers.
 - The 5 lowest scoring cities are: Sammamish, Kent, Bothell, Mercer Island, and Tukwila. These would be the areas I suggest to the company to prioritize.
 - In particular, Sammamish has very low ratios for both metrics, and should therefore be heavily prioritized.
-- None of the 5 largest EV owning cities rank low on this list, indicating that cities with the largest EV owning populations have already focused on providing chargers.
-- 
+
 
 # 5. Future Action
 While my analysis was able to suggest several cities to prioritize that would likely be well met with increased charging stations, there are many more areas that could be covered that I simply didn't have the data to analyze. One of the most prominent of these is the price points of various EVs and how that affects EV owner satisfaction. Further more, my assumption that both EV charger distance and overcrowding hold equal weight in the eyes of the consumer may not be completely accurate, so surveys might help bridge that gap in understanding and let the company know how these factors inter-relate. In addition, with more precise data on the location of various charging stations, you can accurately pinpoint the maximum, minimum, and average distance a EV owner would take to reach a charger. I would suggest utilizing customer satisfaction surveys and gathering more consumer data as a next step to this process on identifying key areas, but I believe this initial analysis would guide a company in the right direction for optimally placing EV chargers.
