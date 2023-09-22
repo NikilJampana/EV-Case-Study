@@ -42,4 +42,12 @@ When looking at our results graph, a few major results become clear.
 
 
 # 5. Future Action
-While my analysis was able to suggest several cities to prioritize that would likely be well met with increased charging stations, there are many more areas that could be covered that I simply didn't have the data to analyze. One of the most prominent of these is the price points of various EVs and how that affects EV owner satisfaction. Further more, my assumption that both EV charger distance and overcrowding hold equal weight in the eyes of the consumer may not be completely accurate, so surveys might help bridge that gap in understanding and let the company know how these factors inter-relate. In addition, with more precise data on the location of various charging stations, you can accurately pinpoint the maximum, minimum, and average distance a EV owner would take to reach a charger. I would suggest utilizing customer satisfaction surveys and gathering more consumer data as a next step to this process on identifying key areas, but I believe this initial analysis would guide a company in the right direction for optimally placing EV chargers.
+
+While our analysis has identified key cities for priority charging station placement, there are additional avenues for exploration and action:
+
+- **Price Points of EVs**: Investigating the price points of various EV models and how they influence EV owner satisfaction could provide valuable insights. Understanding the financial aspect of EV adoption can guide pricing strategies and incentives.
+- **Consumer Surveys**: Conducting surveys among EV owners to assess the relative importance of charging station proximity and crowding could refine our understanding. This qualitative data can uncover nuanced preferences and priorities.
+- **Precise Location Data**: Obtaining more precise data on the exact locations of charging stations can enable accurate mapping of maximum, minimum, and average distances to chargers. This data can further refine our recommendations.
+- **Continual Monitoring**: EV adoption is a dynamic process. Regularly monitoring EV population growth and charging station usage patterns can inform ongoing strategies for infrastructure development.
+
+In conclusion, while this initial analysis provides valuable insights for prioritizing EV charging station placement, it should serve as a foundational step in a more comprehensive strategy. Gathering additional data, conducting surveys, and remaining agile in response to evolving market dynamics will enable the company to make informed decisions that support the continued growth of the EV market in Washington.
