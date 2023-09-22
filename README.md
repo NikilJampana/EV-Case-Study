@@ -17,11 +17,11 @@ When considering ROCCC, our data is:
 # 3. Analysis Steps
 To start, I approached this analysis trying to analyze two major factors that might impact the average EV user regarding charging stations. These were the distance to the average EV charging station and how crowded EV stations might be. To analyze these best using the data I had, I created and graphed two seperate metrics designated by city. 
 
-## 1. The first was the number of Chargers per Electric Vehicle in the city. This metric was intended to gauge how crowded EV chargers might be in the city, with a higher number indicating less crowding. For the top 20 EV owning cities in the state, the results looked like this:
+### 1. The first was the number of Chargers per Electric Vehicle in the city. This metric was intended to gauge how crowded EV chargers might be in the city, with a higher number indicating less crowding. For the top 20 EV owning cities in the state, the results looked like this:
 
 ![alt text](https://github.com/NikilJampana/EV-Case-Study/blob/main/Graphs/Chargers%20per%20EV.png?raw=true)
 
-## 2. The second metric I used was stations by city size. This metric was intended to show the average distance an EV owner might have to drive to get to a charging station, with a higher number again indicating a farther distance. For the top 20 cities, the results looked like this:
+### 2. The second metric I used was stations by city size. This metric was intended to show the average distance an EV owner might have to drive to get to a charging station, with a higher number again indicating a farther distance. For the top 20 cities, the results looked like this:
 
 ![alt text](https://github.com/NikilJampana/EV-Case-Study/blob/main/Graphs/Stations%20By%20City%20Size%20(1).png?raw=true)
 
